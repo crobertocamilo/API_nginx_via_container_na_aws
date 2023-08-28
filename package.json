@@ -1,0 +1,35 @@
+{
+  "name": "estagio_compass_-_sprint3",
+  "version": "1.0.0",
+  "description": "Sprint3 Estagio Compass AWS-ML - Validador como uma API node, implementado na AWS através de imagem Docker",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Compass-pb-aws-2023-Univesp/sprint-3-pb-aws-univesp.git"
+  },
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "Docker",
+    "AWS-EC2",
+    "AWS-ECS",
+    "Dockerhub",
+    "HTML"
+  ],
+  "author": "Carlos RS Camilo (Sprint3 - Grupo3)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Compass-pb-aws-2023-Univesp/sprint-3-pb-aws-univesp/issues"
+  },
+  "homepage": "https://github.com/Compass-pb-aws-2023-Univesp/sprint-3-pb-aws-univesp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
